@@ -90,3 +90,7 @@ serverless offline
 ```
 
 To learn more about the capabilities of `serverless-offline`, please refer to its [GitHub repository](https://github.com/dherault/serverless-offline).
+
+
+### You can test this code using POSTMAN,
+Link PostMan: https://dark-desert-888095.postman.co/workspace/My-Workspace~d0a0fb80-4a20-4edc-8ba2-1a48923e4787/collection/12045347-ff42f403-6cc7-4b80-a033-8028bfe2a9d0?action=share&creator=12045347
